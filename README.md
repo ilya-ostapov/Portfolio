@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio of my work an pet projects
+Portfolio of my work and pet projects
