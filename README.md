@@ -1,4 +1,4 @@
-| Название | Цели | Стек |
+| Название проекта| Цели | Стек |
 |----------|------|------|
 | [Проект 1. Бизнес-процесс](https://github.com/ilya-ostapov/Portfolio/tree/main/Buisness_process_conv) | Выявление возможностей повышения конверсии из пробного урока в оплату. | Python, Pandas, statsmodels, SciPy, numpy, YandexDatalens <br> А/Б тестирование, Хи-квадрат, ANOVA|
 | [Проект 2. e-commerce](https://github.com/ilya-ostapov/Portfolio/tree/main/e-commerce) | Описание поведения клиентов и доставки, RFM-Анализ, когортный анализ | Python, Pandas, Matplotlib, numpy, SciPy, seaborn|
