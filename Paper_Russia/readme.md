@@ -2,4 +2,5 @@
 
 --------------
 Стек:
+
 python 3.6, pandas 1.1.2 Matplotlib, numpy, seaborn, Регрессионный анализ
